@@ -176,5 +176,14 @@
       "Cmd('git') failed due to: exit code(128)\n  cmdline: git sparse-checkout set --skip-checks tags_update/verify.py\n  stderr: 'error: RPC failed; HTTP 500 curl 22 The requested URL returned error: 500\nfatal: expected 'packfile'\nfatal: could not fetch da019c1123fdff3c928fdf57b14ac62f4fd53cc1 from promisor remote'"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1786974698.672111,
+    "completed_at": 1786974701.122974,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
   }
 ]
