@@ -167,5 +167,14 @@
       "Great work using git tag to annotate various commits in the repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1786974642.500025,
+    "completed_at": 1786974660.669101,
+    "comments": [
+      "Cmd('git') failed due to: exit code(128)\n  cmdline: git sparse-checkout set --skip-checks tags_update/verify.py\n  stderr: 'error: RPC failed; HTTP 500 curl 22 The requested URL returned error: 500\nfatal: expected 'packfile'\nfatal: could not fetch da019c1123fdff3c928fdf57b14ac62f4fd53cc1 from promisor remote'"
+    ],
+    "status": "Error"
   }
 ]
