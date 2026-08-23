@@ -239,59 +239,5 @@
       "Good work reverting commits!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1787465757.448899,
-    "completed_at": 1787465762.942783,
-    "comments": [
-      "Something bad happened"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1787465783.847488,
-    "completed_at": 1787465788.135506,
-    "comments": [
-      "Something bad happened"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1787465870.568123,
-    "completed_at": 1787465875.017015,
-    "comments": [
-      "Something bad happened"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1787466153.855427,
-    "completed_at": 1787466158.148226,
-    "comments": [
-      "Something bad happened"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1787466286.169937,
-    "completed_at": 1787466290.234782,
-    "comments": [
-      "Something bad happened"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1787466343.515357,
-    "completed_at": 1787466347.919249,
-    "comments": [
-      "Something bad happened"
-    ],
-    "status": "Incomplete"
   }
 ]
