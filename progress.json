@@ -365,5 +365,14 @@
       "Expected commit message of 'Add the delete feature', got 'resolve conflict' instead."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787478295.938548,
+    "completed_at": 1787478299.0751,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
   }
 ]
